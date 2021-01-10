@@ -1,0 +1,12 @@
+body{
+    background-color: #ddd;
+    text-align: center;
+    margin-top: 2%;
+}
+#gameScreen{
+    border: 2px solid #09c;
+    
+}
+img{
+    display: none;
+}
